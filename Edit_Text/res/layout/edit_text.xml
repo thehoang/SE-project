@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Tieu de"
+	/>
+    <EditText
+		android:id="@+id/Tieude"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/tieude"
+		android:textColor="@color/blue"
+	/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="Noi dung"
+    />
+    <EditText
+        android:id="@+id/Noidung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/noidung"
+        android:textColor="@color/blue"
+    />
+
+</LinearLayout>

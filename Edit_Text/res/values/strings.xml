@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Edit_Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tieude"></string>
+    <string name="noidung"></string>
+    <color name="blue">#51A9FF</color>
+
+</resources>
