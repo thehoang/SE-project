@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SignIn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dang_nhap">Đăng nhập</string>
+    <string name="login">Login</string>
+    <string name="thay_doi_mat_khau">Thay đổi mật khẩu</string>
+    <string name="nhap_mat_khau_cu">Nhập mật khẩu cũ</string>
+    <string name="nhap_mat_khau_moi">Nhập mật khẩu mới</string>
+    <string name="nhap_lai_mat_khau">Nhập lại mật khẩu</string>
+    <string name="ok">OK</string>
+    <string name="pass_word"></string>
+
+</resources>
